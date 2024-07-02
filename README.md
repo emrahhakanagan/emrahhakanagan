@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cloud Storage Service](https://github.com/emrahhakanagan/N-DiplomaProject-CloudStorageService)
 
-- 🌱 I’m currently learning **Kotlin, Kafka, AWS**
+- 🌱 I’m currently learning **Kafka, AWS, Kotlin**
 
 - 📫 How to reach me **emrahhakanagan@gmail.com**
 
