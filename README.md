@@ -1,4 +1,4 @@
-  [![MasterHead](https://github.com/emrahhakanagan/emrahhakanagan/blob/main/banner%20english.png)
+  [![MasterHead](https://github.com/emrahhakanagan/emrahhakanagan/blob/main/GitHub_Banner2.jpg)
 <h1 align="center">Hi 👋, I'm Emrah Hakan Agan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
