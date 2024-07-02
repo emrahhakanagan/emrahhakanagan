@@ -1,4 +1,4 @@
- [![MasterHead](https://www.canva.com/design/DAGI1_LU1rM/jvc3VC4q3y07Jn_DjobGbw/edit)
+ [![MasterHead]([https://www.canva.com/design/DAGI1_LU1rM/jvc3VC4q3y07Jn_DjobGbw/edit](https://github.com/emrahhakanagan/emrahhakanagan/blob/main/banner%20english.png))
 <h1 align="center">Hi 👋, I'm Emrah Hakan Agan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
