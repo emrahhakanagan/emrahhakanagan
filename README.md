@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Cloud Storage Service](https://github.com/emrahhakanagan/N-DiplomaProject-CloudStorageService)
-- 🔭 I’m currently working on [Online Shopping Platform EHA](https://github.com/emrahhakanagan/Online_Shopping_Platform_EHA)
+- 🔭 I’m currently working on [Online Buy-Sell Platform EHA](https://github.com/emrahhakanagan/Online_Shopping_Platform_EHA)
 
 - 🌱 I’m currently learning **Kotlin, Kafka, AWS**
 
