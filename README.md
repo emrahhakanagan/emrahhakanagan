@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Emrah Hakan Agan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Online Buy-Sell Platform EHA Pro Microservice](https://github.com/emrahhakanagan/Online-Platform-Buy-Sell-EHA-Pro-Microservice) (Nov 2024)
+- 🔭 I’m currently working on [Online Buy-Sell Platform EHA Pro Microservice](https://github.com/emrahhakanagan/Online-Platform-Buy-Sell-EHA-Pro-Microservice) *(Nov 2024)*
 - 🔭 I’m currently working on [Online Buy-Sell Platform EHA](https://github.com/emrahhakanagan/Online_Shopping_Platform_EHA)
-- ✅ I have completed my work on [Cloud Storage Service](https://github.com/emrahhakanagan/N-DiplomaProject-CloudStorageService) (Oct 2024)
+- ✅ I have completed my work on [Cloud Storage Service](https://github.com/emrahhakanagan/N-DiplomaProject-CloudStorageService) *(Oct 2024)*
   
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning **Microservices Architecture** *(Oct 2024)*
 
 - 📫 How to reach me **emrahhakanagan@gmail.com**
 
